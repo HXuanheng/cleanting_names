@@ -1,0 +1,2 @@
+resources = 'resources/'
+results = 'results/'
